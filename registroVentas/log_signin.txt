@@ -1,0 +1,7 @@
+{'cliente': 'prueba validando con Shiomar', 'cliente_id': 1281928192, 'direccion': 'direccion prueba No 4', 'ciudad': 'Bogota', 'fecha_pedido': '2023-02-18', 'fecha_entrega': '2023-02-18', 'metodo_pago': 'Tarjeta Credito'}
+{'cliente': 'prueba validando con Shiomar', 'cliente_id': 1281928192, 'direccion': 'direccion prueba No 4', 'ciudad': 'Bogota', 'fecha_pedido': '2023-02-18', 'fecha_entrega': '2023-02-18', 'metodo_pago': 'Tarjeta Credito'}
+{'cliente': 'prueba validando con Shiomar', 'cliente_id': 1281928192, 'direccion': 'direccion prueba No 4', 'ciudad': 'Bogota', 'fecha_pedido': '2023-02-18', 'fecha_entrega': '2023-02-18', 'metodo_pago': 'Tarjeta Credito'}
+{'cliente': 'prueba validando con Shiomar', 'cliente_id': 1281928192, 'direccion': 'direccion prueba No 4', 'ciudad': 'Bogota', 'fecha_pedido': '2023-02-18', 'fecha_entrega': '2023-02-18', 'metodo_pago': 'Tarjeta Credito'}
+{'cliente': 'prueba validando con Shiomar', 'cliente_id': 1281928192, 'direccion': 'direccion prueba No 4', 'ciudad': 'Bogota', 'fecha_pedido': '2023-02-18', 'fecha_entrega': '2023-02-18', 'metodo_pago': 'Tarjeta Credito'}
+{'cliente': 'prueba validando utlima', 'cliente_id': 1281928192, 'direccion': 'direccion prueba No 4', 'ciudad': 'Bogota', 'fecha_pedido': '2023-02-18', 'fecha_entrega': '2023-02-18', 'metodo_pago': 'Tarjeta Credito'}
+{'cliente': 'prueba validando numero 7', 'cliente_id': 1281928192, 'direccion': 'direccion prueba No 4', 'ciudad': 'Bogota', 'fecha_pedido': '2023-02-18', 'fecha_entrega': '2023-02-18', 'metodo_pago': 'Tarjeta Credito'}
